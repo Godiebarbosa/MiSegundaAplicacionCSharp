@@ -12,3 +12,4 @@ C:\Users\ADMIN\Documents\Diego\Nueva carpeta (2)\program\obj\Debug\net8.0\refint
 C:\Users\ADMIN\Documents\Diego\Nueva carpeta (2)\program\obj\Debug\net8.0\program.pdb
 C:\Users\ADMIN\Documents\Diego\Nueva carpeta (2)\program\obj\Debug\net8.0\program.genruntimeconfig.cache
 C:\Users\ADMIN\Documents\Diego\Nueva carpeta (2)\program\obj\Debug\net8.0\ref\program.dll
+C:\Users\ADMIN\Documents\Diego\Nueva carpeta (2)\program\obj\Debug\net8.0\program.sourcelink.json
